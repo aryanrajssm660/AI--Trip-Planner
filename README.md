@@ -562,15 +562,15 @@ Full Stack & AI Engineer
 
 If you encounter issues:
 
-1. Check the [Issues](https://github.com/Himanshusinghyadavup61/Ai-trip-planner/issues) page
+1. Check the [Issues](https://github.com/aryanrajssm660/AI--Trip-Planner) page
 2. Create a new issue with detailed information
-3. Contact: himanshusinghyadavup61@gmail.com
+3. Contact: aryanrajssm660@gmail.com
 
 ---
 
 **AI Trip Planner** — Practical AI-assisted travel planning with real-world, free data.
 
-Made with ❤️ by Himanshu Singh Yadav
+Made with ❤️ by Aryan Raj
 
 
 
